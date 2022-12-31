@@ -1,0 +1,7 @@
+alias gs='git status'
+alias gd='git diff'
+alias ga='git add'
+alias gm='git commit -m'
+alias nv='nvim'
+alias nrc='nv ~/.config/nvim/init.vim'
+alias ll='ls -ltra'
