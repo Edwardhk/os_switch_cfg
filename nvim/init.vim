@@ -2,6 +2,7 @@ set number
 set mouse=a
 set tabstop=4
 set shiftwidth=4
+set encoding=UTF-8
 
 "NeoBundle Scripts-----------------------------
 if &compatible
@@ -29,6 +30,7 @@ NeoBundle 'neoclide/coc.nvim', 'release'
 NeoBundle 'vim-airline/vim-airline'
 NeoBundle 'nvim-lua/plenary.nvim'
 NeoBundle 'nvim-lua/telescope.nvim'
+NeoBundle 'ryanoasis/vim-devicons' 
 
 " You can specify revision/branch/tag.
 NeoBundle 'Shougo/vimshell', { 'rev' : '3787e5' }

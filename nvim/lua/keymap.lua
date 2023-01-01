@@ -10,6 +10,7 @@ keymap("n", "<Leader>t", ":NERDTreeToggle<CR>", opts)
 
 -- Telescope related --
 keymap("n", "<Leader>ff", ":Telescope find_files<CR>", opts)
+keymap("n", "<Leader>fg", ":Telescope live_grep<CR>", opts)
 
 -- COC related --
 function _G.check_back_space()
