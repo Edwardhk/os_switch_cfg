@@ -27,6 +27,7 @@ NeoBundle 'flazz/vim-colorschemes'
 NeoBundle 'preservim/nerdtree'
 NeoBundle 'neoclide/coc.nvim', 'release'
 NeoBundle 'vim-airline/vim-airline'
+NeoBundle 'nvim-lua/telescope.nvim'
 
 " You can specify revision/branch/tag.
 NeoBundle 'Shougo/vimshell', { 'rev' : '3787e5' }
@@ -44,4 +45,4 @@ NeoBundleCheck
 
 
 " Start NERDTree and leave the cursor in it.
-autocmd VimEnter * NERDTree
+" autocmd VimEnter * NERDTree
