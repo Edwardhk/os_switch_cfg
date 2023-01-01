@@ -27,6 +27,7 @@ NeoBundle 'flazz/vim-colorschemes'
 NeoBundle 'preservim/nerdtree'
 NeoBundle 'neoclide/coc.nvim', 'release'
 NeoBundle 'vim-airline/vim-airline'
+NeoBundle 'nvim-lua/plenary.nvim'
 NeoBundle 'nvim-lua/telescope.nvim'
 
 " You can specify revision/branch/tag.

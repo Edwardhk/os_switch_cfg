@@ -1,2 +1,2 @@
-cp ~/.config/nvim/init.vim .
+cp -r ~/.config/nvim .
 cp ~/.zsh_aliases .
